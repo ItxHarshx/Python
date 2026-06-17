@@ -14,4 +14,5 @@ print(34/2)
 
 print("Hello!\nWorld") # escape sequence character: \n
 
+print("Hello! \"world\"")
 
