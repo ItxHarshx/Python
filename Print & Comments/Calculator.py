@@ -5,6 +5,14 @@ num2 = float(input("Enter second number: ")
 
 operator = input("select operator")
 
-if operator = "+":
+if operator == "+":
 print(num1 + num2)
+elif operator == "-":
+print(num1 - num2)
+elif operator == "*":
+print(num1 * num2)
+elif operator == "/":
+print(num1 / num3)
+else:
+print("Invalid operator")
 
