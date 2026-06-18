@@ -12,8 +12,9 @@ print(4*2)
 print(34/2)
 #------------
 
-print("Hello!\nWorld") # escape sequence character: \n
-
+print("Hello!\nWorld") # escape sequence character
 print("Hello! \"world\"")
 print("hello\tworld")
 
+print("""Hello everyone,
+how are you?""")
